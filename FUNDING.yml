@@ -1,3 +1,5 @@
 ---
 github: 
-- resmo
+  - resmo
+custom:
+  - paypal.me/resmo
